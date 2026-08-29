@@ -3,7 +3,7 @@
   "selecciones": {
     "Invocación inicial": {
       "key": "invocacion",
-      "capoOffset": 0
+      "capoOffset": -1
     },
     "Himno": {
       "key": "greg",
