@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-08-29",
+  "selecciones": {
+    "Invocación inicial": {
+      "key": "invocacion",
+      "capoOffset": 0
+    },
+    "Himno": {
+      "key": "greg",
+      "capoOffset": 0
+    },
+    "Primer salmo": {
+      "key": "tatotaton",
+      "capoOffset": 0
+    },
+    "Segundo salmo": {
+      "key": "tatitaton",
+      "capoOffset": 0
+    },
+    "Tercer salmo": {
+      "key": "ascendente",
+      "capoOffset": 0
+    },
+    "Responsorio breve": {
+      "key": "responsorio",
+      "capoOffset": 0
+    },
+    "Cántico de Zacarías": {
+      "key": "zacarias",
+      "capoOffset": 0
+    },
+    "Padrenuestro": {
+      "key": "padrenuestro",
+      "capoOffset": 0
+    }
+  }
+}
