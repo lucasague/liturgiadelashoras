@@ -1,5 +1,38 @@
 {
   "fecha": "2026-10-21",
-  "selecciones": {},
+  "selecciones": {
+    "Invocación inicial": {
+      "key": "invocacion",
+      "capoOffset": 0
+    },
+    "Himno": {
+      "key": "desc",
+      "capoOffset": 0
+    },
+    "Primer salmo": {
+      "key": "clasica",
+      "capoOffset": 0
+    },
+    "Segundo salmo": {
+      "key": "rota",
+      "capoOffset": 0
+    },
+    "Tercer salmo": {
+      "key": "epica",
+      "capoOffset": 0
+    },
+    "Responsorio breve": {
+      "key": "responsorio",
+      "capoOffset": 0
+    },
+    "Cántico de Zacarías": {
+      "key": "zacarias",
+      "capoOffset": 0
+    },
+    "Padrenuestro": {
+      "key": "padrenuestro",
+      "capoOffset": 0
+    }
+  },
   "misaCanciones": {}
 }
