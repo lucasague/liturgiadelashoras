@@ -10,28 +10,28 @@
       "capoOffset": 0
     },
     "Primer salmo": {
-      "key": "narnia",
-      "capoOffset": -1
+      "key": "tatitaton",
+      "capoOffset": 0
     },
     "Segundo salmo": {
       "key": "rota",
-      "capoOffset": -1
+      "capoOffset": 0
     },
     "Tercer salmo": {
       "key": "arabe",
-      "capoOffset": -1
+      "capoOffset": 0
     },
     "Responsorio breve": {
       "key": "responsorio",
-      "capoOffset": -1
+      "capoOffset": 0
     },
     "Cántico de Zacarías": {
       "key": "zacarias",
-      "capoOffset": -1
+      "capoOffset": 0
     },
     "Padrenuestro": {
       "key": "padrenuestro",
-      "capoOffset": -1
+      "capoOffset": 0
     }
   },
   "misaCanciones": {}
