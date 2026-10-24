@@ -1,39 +1,6 @@
 {
-  "fecha": "2026-10-23",
-  "selecciones": {
-    "Invocación inicial": {
-      "key": "invocacion",
-      "capoOffset": 0
-    },
-    "Himno": {
-      "key": "greg",
-      "capoOffset": 0
-    },
-    "Primer salmo": {
-      "key": "tatotaton",
-      "capoOffset": 0
-    },
-    "Segundo salmo": {
-      "key": "tatitaton",
-      "capoOffset": 0
-    },
-    "Tercer salmo": {
-      "key": "arabe",
-      "capoOffset": 0
-    },
-    "Responsorio breve": {
-      "key": "responsorio",
-      "capoOffset": 0
-    },
-    "Cántico de Zacarías": {
-      "key": "zacarias",
-      "capoOffset": 0
-    },
-    "Padrenuestro": {
-      "key": "padrenuestro",
-      "capoOffset": 0
-    }
-  },
+  "fecha": "2026-10-25",
+  "selecciones": {},
   "misaCanciones": {},
   "porSalmo": {},
   "dias": {}
