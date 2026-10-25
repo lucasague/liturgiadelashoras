@@ -35,6 +35,18 @@
     }
   },
   "misaCanciones": {},
-  "porSalmo": {},
-  "dias": {}
+  "porSalmo": {
+    "hoy que sé que mi vida es un desierto,": "desc",
+    "salmo 41: deseo del señor y ansias de contemplar el templo": "tatotaton",
+    "eclesiástico 36, 1-7. 13-16: súplica en favor de la ciudad santa de jerusalén": "epica",
+    "salmo 18 a: alabanza al dios creador del universo": "narnia"
+  },
+  "dias": {
+    "2026-10-26": {
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "narnia"
+    }
+  }
 }
