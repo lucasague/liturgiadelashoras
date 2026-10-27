@@ -43,7 +43,11 @@
     "porque, señor, yo te he visto": "greg",
     "salmo 42: deseo del templo": "tatotaton",
     "isaías 38, 10-14;17-20: angustias de un moribundo y alegría de la curación": "epica",
-    "salmo 64: solemne acción de gracias": "narnia"
+    "salmo 64: solemne acción de gracias": "narnia",
+    "vosotros que escuchasteis la llamada": "desc",
+    "salmo 62, 2-9: el alma sedienta de dios": "tatotaton",
+    "daniel 3, 57-88. 56: toda la creación alabe al señor": "tatitaton",
+    "salmo 149: alegría de los santos": "ascendente"
   },
   "dias": {
     "2026-10-26": {
@@ -57,6 +61,12 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "epica",
       "Tercer salmo": "narnia"
+    },
+    "2026-10-28": {
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "tatitaton",
+      "Tercer salmo": "ascendente"
     }
   }
 }
