@@ -51,7 +51,11 @@
     "alfarero del hombre, mano trabajadora": "desc",
     "salmo 79: ven, señor, a visitar tu viña": "clasica",
     "isaías 12, 1-6: acción de gracias del pueblo salvado": "rota",
-    "salmo 80: solemne renovación de la alianza": "ascendente"
+    "salmo 80: solemne renovación de la alianza": "ascendente",
+    "por el dolor creyente que brota del pecado;": "greg",
+    "salmo 50: misericordia, dios mío": "tatotaton",
+    "habacuc 3, 2-4. 13a. 15-19: juicio de dios": "epica",
+    "salmo 147: acción de gracias por la restauración de jerusalén": "narnia"
   },
   "dias": {
     "2026-10-26": {
@@ -77,6 +81,12 @@
       "Primer salmo": "clasica",
       "Segundo salmo": "rota",
       "Tercer salmo": "ascendente"
+    },
+    "2026-10-30": {
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "narnia"
     }
   }
 }
