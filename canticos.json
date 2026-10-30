@@ -55,7 +55,11 @@
     "por el dolor creyente que brota del pecado;": "greg",
     "salmo 50: misericordia, dios mío": "tatotaton",
     "habacuc 3, 2-4. 13a. 15-19: juicio de dios": "epica",
-    "salmo 147: acción de gracias por la restauración de jerusalén": "narnia"
+    "salmo 147: acción de gracias por la restauración de jerusalén": "narnia",
+    "padre nuestro,": "greg",
+    "salmo 91: alabanza del dios creador": "tatotaton",
+    "deuteronomio 32, 1-12: beneficios de dios para con su pueblo": "epica",
+    "salmo 8: las maravillas de la creación": "rota"
   },
   "dias": {
     "2026-10-26": {
@@ -87,6 +91,12 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "epica",
       "Tercer salmo": "narnia"
+    },
+    "2026-10-31": {
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "rota"
     }
   }
 }
