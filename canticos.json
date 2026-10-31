@@ -59,7 +59,8 @@
     "padre nuestro,": "greg",
     "salmo 91: alabanza del dios creador": "tatotaton",
     "deuteronomio 32, 1-12: beneficios de dios para con su pueblo": "epica",
-    "salmo 8: las maravillas de la creación": "rota"
+    "salmo 8: las maravillas de la creación": "rota",
+    "patriarcas que fuisteis la semilla": "desc"
   },
   "dias": {
     "2026-10-26": {
@@ -97,6 +98,12 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "epica",
       "Tercer salmo": "rota"
+    },
+    "2026-11-01": {
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "tatitaton",
+      "Tercer salmo": "ascendente"
     }
   }
 }
