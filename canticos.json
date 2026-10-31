@@ -11,27 +11,27 @@
     },
     "Primer salmo": {
       "key": "tatotaton",
-      "capoOffset": 0
+      "capoOffset": -1
     },
     "Segundo salmo": {
       "key": "tatitaton",
-      "capoOffset": 0
+      "capoOffset": -1
     },
     "Tercer salmo": {
       "key": "ascendente",
-      "capoOffset": 0
+      "capoOffset": -1
     },
     "Responsorio breve": {
       "key": "responsorio",
-      "capoOffset": 0
+      "capoOffset": -1
     },
     "Cántico de Zacarías": {
       "key": "zacarias",
-      "capoOffset": 0
+      "capoOffset": -1
     },
     "Padrenuestro": {
       "key": "padrenuestro",
-      "capoOffset": 0
+      "capoOffset": -1
     }
   },
   "misaCanciones": {},
