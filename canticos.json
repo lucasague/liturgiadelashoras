@@ -60,7 +60,8 @@
     "salmo 91: alabanza del dios creador": "tatotaton",
     "deuteronomio 32, 1-12: beneficios de dios para con su pueblo": "epica",
     "salmo 8: las maravillas de la creación": "rota",
-    "patriarcas que fuisteis la semilla": "desc"
+    "patriarcas que fuisteis la semilla": "desc",
+    "salmo 145: felicidad de los que esperan en dios": "ascendente"
   },
   "dias": {
     "2026-10-26": {
@@ -103,6 +104,11 @@
       "Himno": "desc",
       "Primer salmo": "tatotaton",
       "Segundo salmo": "tatitaton",
+      "Tercer salmo": "ascendente"
+    },
+    "2026-11-02": {
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
       "Tercer salmo": "ascendente"
     }
   }
