@@ -1,23 +1,6 @@
 {
-  "fecha": "2026-11-01",
-  "selecciones": {
-    "Himno": {
-      "key": "desc",
-      "capoOffset": 0
-    },
-    "Primer salmo": {
-      "key": "tatotaton",
-      "capoOffset": 0
-    },
-    "Segundo salmo": {
-      "key": "tatitaton",
-      "capoOffset": 0
-    },
-    "Tercer salmo": {
-      "key": "ascendente",
-      "capoOffset": 0
-    }
-  },
+  "fecha": "2026-11-03",
+  "selecciones": {},
   "misaCanciones": {},
   "porSalmo": {
     "hoy que sé que mi vida es un desierto,": "desc",
