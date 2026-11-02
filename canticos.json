@@ -61,7 +61,11 @@
     "deuteronomio 32, 1-12: beneficios de dios para con su pueblo": "epica",
     "salmo 8: las maravillas de la creación": "rota",
     "patriarcas que fuisteis la semilla": "desc",
-    "salmo 145: felicidad de los que esperan en dios": "ascendente"
+    "salmo 145: felicidad de los que esperan en dios": "ascendente",
+    "señor, el día empieza. como siempre,": "greg",
+    "salmo 84: nuestra salvación está cerca": "tatotaton",
+    "isaías 26, 1-4. 7-9. 12: himno después de la victoria sobre el enemigo": "arabe",
+    "salmo 66: que todos los pueblos alaben al señor": "epica"
   },
   "dias": {
     "2026-10-26": {
@@ -110,6 +114,12 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "epica",
       "Tercer salmo": "ascendente"
+    },
+    "2026-11-03": {
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "arabe",
+      "Tercer salmo": "epica"
     }
   }
 }
