@@ -65,7 +65,11 @@
     "señor, el día empieza. como siempre,": "greg",
     "salmo 84: nuestra salvación está cerca": "tatotaton",
     "isaías 26, 1-4. 7-9. 12: himno después de la victoria sobre el enemigo": "arabe",
-    "salmo 66: que todos los pueblos alaben al señor": "epica"
+    "salmo 66: que todos los pueblos alaben al señor": "epica",
+    "cristo, cabeza, rey de los pastores,": "desc",
+    "salmo 85: oración de un pobre ante las adversidades": "tatotaton",
+    "isaías 33, 13-16: dios juzgará con justicia": "epica",
+    "salmo 97: el señor, juez vencedor": "ascendente"
   },
   "dias": {
     "2026-10-26": {
@@ -120,6 +124,12 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "arabe",
       "Tercer salmo": "epica"
+    },
+    "2026-11-04": {
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "ascendente"
     }
   }
 }
