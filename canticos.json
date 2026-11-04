@@ -69,7 +69,11 @@
     "cristo, cabeza, rey de los pastores,": "desc",
     "salmo 85: oración de un pobre ante las adversidades": "tatotaton",
     "isaías 33, 13-16: dios juzgará con justicia": "epica",
-    "salmo 97: el señor, juez vencedor": "ascendente"
+    "salmo 97: el señor, juez vencedor": "ascendente",
+    "autor del cielo y el suelo,": "greg",
+    "salmo 86: himno a jerusalén, madre de todos los pueblos": "clasica",
+    "isaías 40, 10-17: el buen pastor es el dios altísimo y sapientísimo": "epica",
+    "salmo 98: santo es el señor, nuestro dios": "rota"
   },
   "dias": {
     "2026-10-26": {
@@ -130,6 +134,12 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "epica",
       "Tercer salmo": "ascendente"
+    },
+    "2026-11-05": {
+      "Himno": "greg",
+      "Primer salmo": "clasica",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "rota"
     }
   }
 }
