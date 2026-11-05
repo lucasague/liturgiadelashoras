@@ -1,6 +1,10 @@
 {
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-06",
   "selecciones": {
+    "Invocación inicial": {
+      "key": "invocacion",
+      "capoOffset": 0
+    },
     "Himno": {
       "key": "greg",
       "capoOffset": 0
@@ -15,10 +19,6 @@
     },
     "Tercer salmo": {
       "key": "rota",
-      "capoOffset": 0
-    },
-    "Invocación inicial": {
-      "key": "invocacion",
       "capoOffset": 0
     },
     "Responsorio breve": {
