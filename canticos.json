@@ -73,7 +73,11 @@
     "autor del cielo y el suelo,": "greg",
     "salmo 86: himno a jerusalén, madre de todos los pueblos": "clasica",
     "isaías 40, 10-17: el buen pastor es el dios altísimo y sapientísimo": "epica",
-    "salmo 98: santo es el señor, nuestro dios": "rota"
+    "salmo 98: santo es el señor, nuestro dios": "rota",
+    "al filo de los gallos,": "greg",
+    "salmo 118, 145-152: xix (coph)": "tatotaton",
+    "sabiduría 9, 1-6. 9-11: dame, señor, la sabiduría": "narnia",
+    "salmo 116: invitación universal a la alabanza divina": "rota"
   },
   "dias": {
     "2026-10-26": {
@@ -145,6 +149,12 @@
       "Himno": "greg",
       "Primer salmo": "clasica",
       "Segundo salmo": "epica",
+      "Tercer salmo": "rota"
+    },
+    "2026-11-07": {
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "narnia",
       "Tercer salmo": "rota"
     }
   }
