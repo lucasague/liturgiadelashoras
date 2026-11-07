@@ -77,7 +77,8 @@
     "al filo de los gallos,": "greg",
     "salmo 118, 145-152: xix (coph)": "tatotaton",
     "sabiduría 9, 1-6. 9-11: dame, señor, la sabiduría": "narnia",
-    "salmo 116: invitación universal a la alabanza divina": "rota"
+    "salmo 116: invitación universal a la alabanza divina": "rota",
+    "piedra angular y fundamento es cristo": "desc"
   },
   "dias": {
     "2026-10-26": {
@@ -156,6 +157,12 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "narnia",
       "Tercer salmo": "rota"
+    },
+    "2026-11-08": {
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "tatitaton",
+      "Tercer salmo": "ascendente"
     }
   }
 }
