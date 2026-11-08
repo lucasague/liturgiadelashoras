@@ -1,10 +1,6 @@
 {
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-08",
   "selecciones": {
-    "Invocación inicial": {
-      "key": "invocacion",
-      "capoOffset": 0
-    },
     "Himno": {
       "key": "desc",
       "capoOffset": 0
@@ -14,11 +10,15 @@
       "capoOffset": 0
     },
     "Segundo salmo": {
-      "key": "rota",
+      "key": "tatitaton",
       "capoOffset": 0
     },
     "Tercer salmo": {
       "key": "ascendente",
+      "capoOffset": 0
+    },
+    "Invocación inicial": {
+      "key": "invocacion",
       "capoOffset": 0
     },
     "Responsorio breve": {
