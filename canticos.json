@@ -78,7 +78,10 @@
     "salmo 118, 145-152: xix (coph)": "tatotaton",
     "sabiduría 9, 1-6. 9-11: dame, señor, la sabiduría": "narnia",
     "salmo 116: invitación universal a la alabanza divina": "rota",
-    "piedra angular y fundamento es cristo": "desc"
+    "piedra angular y fundamento es cristo": "desc",
+    "salmo 100: propósitos de un príncipe justo": "tatotaton",
+    "daniel 3, 26-29. 34-41: oración de azarías en el horno": "epica",
+    "salmo 143, 1-10: oración por la victoria y la paz": "ascendente"
   },
   "dias": {
     "2026-10-26": {
@@ -168,6 +171,12 @@
       "Himno": "desc",
       "Primer salmo": "tatotaton",
       "Segundo salmo": "rota",
+      "Tercer salmo": "ascendente"
+    },
+    "2026-11-10": {
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
       "Tercer salmo": "ascendente"
     }
   }
