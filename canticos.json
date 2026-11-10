@@ -81,7 +81,9 @@
     "piedra angular y fundamento es cristo": "desc",
     "salmo 100: propósitos de un príncipe justo": "tatotaton",
     "daniel 3, 26-29. 34-41: oración de azarías en el horno": "epica",
-    "salmo 143, 1-10: oración por la victoria y la paz": "ascendente"
+    "salmo 143, 1-10: oración por la victoria y la paz": "ascendente",
+    "salmo 107: alabanza al señor y petición de auxilio": "tatotaton",
+    "isaías 61, 10-62, 5: alegría del profeta ante la nueva jerusalén": "epica"
   },
   "dias": {
     "2026-10-26": {
@@ -174,6 +176,12 @@
       "Tercer salmo": "ascendente"
     },
     "2026-11-10": {
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "ascendente"
+    },
+    "2026-11-11": {
       "Himno": "desc",
       "Primer salmo": "tatotaton",
       "Segundo salmo": "epica",
