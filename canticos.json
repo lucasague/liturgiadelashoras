@@ -87,7 +87,9 @@
     "«quien entrega su vida por amor, ": "greg",
     "salmo 142, 1-11: lamentación y súplica ante la angustia": "tatotaton",
     "isaías 66, 10-14a: consuelo y gozo para la ciudad santa": "ascendente",
-    "salmo 146: poder y bondad de dios": "epica"
+    "salmo 146: poder y bondad de dios": "epica",
+    "eres la luz y siembras claridades;": "greg",
+    "tobías 13, 10-13. 15. 16b-17a: acción de gracias por la liberación del pueblo": "epica"
   },
   "dias": {
     "2026-10-26": {
@@ -198,7 +200,10 @@
       "Tercer salmo": "epica"
     },
     "2026-11-13": {
-      "Segundo salmo": "epica"
+      "Segundo salmo": "epica",
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Tercer salmo": "narnia"
     }
   }
 }
