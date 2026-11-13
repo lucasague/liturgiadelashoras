@@ -14,7 +14,7 @@
       "capoOffset": 0
     },
     "Segundo salmo": {
-      "key": "epica",
+      "key": "ascendente",
       "capoOffset": 0
     },
     "Tercer salmo": {
@@ -204,6 +204,9 @@
       "Himno": "greg",
       "Primer salmo": "tatotaton",
       "Tercer salmo": "narnia"
+    },
+    "2026-11-14": {
+      "Segundo salmo": "ascendente"
     }
   }
 }
