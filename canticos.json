@@ -89,7 +89,9 @@
     "isaías 66, 10-14a: consuelo y gozo para la ciudad santa": "ascendente",
     "salmo 146: poder y bondad de dios": "epica",
     "eres la luz y siembras claridades;": "greg",
-    "tobías 13, 10-13. 15. 16b-17a: acción de gracias por la liberación del pueblo": "epica"
+    "tobías 13, 10-13. 15. 16b-17a: acción de gracias por la liberación del pueblo": "epica",
+    "bello es el rostro de la luz, abierto": "greg",
+    "ezequiel 36, 24-28: dios renovará a su pueblo": "ascendente"
   },
   "dias": {
     "2026-10-26": {
@@ -206,7 +208,10 @@
       "Tercer salmo": "narnia"
     },
     "2026-11-14": {
-      "Segundo salmo": "ascendente"
+      "Segundo salmo": "ascendente",
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Tercer salmo": "rota"
     }
   }
 }
