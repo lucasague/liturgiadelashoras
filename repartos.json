@@ -1,12 +1,13 @@
 {
-  "actualizado": "2026-11-14T12:15:38.700Z",
+  "actualizado": "2026-11-14T12:16:27.431Z",
   "repartos": {
     "4|bendito sea el senor dios de israel\nporque ha visitado y redimido a su pueblo\nsuscitandonos una fuerza de salvacion\nen la casa de david su siervo\nsegun lo habia predicho desde antiguo\npor boca de sus santos profetas": {
       "layout": {
         "lines": [
           "Bendito sea el Señor, Dios de Israel,",
           "porque ha visitado y redimido a su pueblo,",
-          "suscitándonos una fuerza de salvación en la casa de David, su siervo,",
+          "suscitándonos una fuerza de salvación",
+          "en la casa de David, su siervo,",
           "según lo había predicho desde antiguo por boca de sus santos profetas."
         ],
         "passes": [
@@ -21,12 +22,20 @@
             ],
             [
               "3",
-              2
+              1
+            ],
+            [
+              "4",
+              1
+            ],
+            [
+              "4",
+              1
             ]
           ]
         ]
       },
-      "t": 1794658516348
+      "t": 1794658584812
     }
   }
 }
