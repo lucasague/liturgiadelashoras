@@ -91,7 +91,8 @@
     "eres la luz y siembras claridades;": "greg",
     "tobías 13, 10-13. 15. 16b-17a: acción de gracias por la liberación del pueblo": "epica",
     "bello es el rostro de la luz, abierto": "greg",
-    "ezequiel 36, 24-28: dios renovará a su pueblo": "ascendente"
+    "ezequiel 36, 24-28: dios renovará a su pueblo": "ascendente",
+    "es domingo; una luz nueva": "greg"
   },
   "dias": {
     "2026-10-26": {
@@ -212,6 +213,12 @@
       "Himno": "greg",
       "Primer salmo": "tatotaton",
       "Tercer salmo": "rota"
+    },
+    "2026-11-15": {
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "rota",
+      "Tercer salmo": "ascendente"
     }
   }
 }
