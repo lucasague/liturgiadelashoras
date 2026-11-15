@@ -18,7 +18,7 @@
       "capoOffset": -1
     },
     "Tercer salmo": {
-      "key": "rota",
+      "key": "arabe",
       "capoOffset": -1
     },
     "Responsorio breve": {
@@ -223,7 +223,8 @@
     "2026-11-16": {
       "Himno": "desc",
       "Primer salmo": "tatotaton",
-      "Segundo salmo": "clasica"
+      "Segundo salmo": "clasica",
+      "Tercer salmo": "arabe"
     }
   }
 }
