@@ -14,7 +14,7 @@
       "capoOffset": -1
     },
     "Segundo salmo": {
-      "key": "ascendente",
+      "key": "epica",
       "capoOffset": -1
     },
     "Tercer salmo": {
@@ -222,7 +222,8 @@
     },
     "2026-11-16": {
       "Himno": "desc",
-      "Primer salmo": "tatotaton"
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica"
     }
   }
 }
