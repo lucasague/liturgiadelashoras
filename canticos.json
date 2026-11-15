@@ -18,7 +18,7 @@
       "capoOffset": -1
     },
     "Tercer salmo": {
-      "key": "ascendente",
+      "key": "epica",
       "capoOffset": -1
     },
     "Responsorio breve": {
@@ -224,7 +224,7 @@
       "Himno": "desc",
       "Primer salmo": "tatotaton",
       "Segundo salmo": "clasica",
-      "Tercer salmo": "ascendente"
+      "Tercer salmo": "epica"
     }
   }
 }
