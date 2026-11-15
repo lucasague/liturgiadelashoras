@@ -14,11 +14,11 @@
       "capoOffset": -1
     },
     "Segundo salmo": {
-      "key": "epica",
+      "key": "clasica",
       "capoOffset": -1
     },
     "Tercer salmo": {
-      "key": "tatitaton",
+      "key": "rota",
       "capoOffset": -1
     },
     "Responsorio breve": {
@@ -223,7 +223,7 @@
     "2026-11-16": {
       "Himno": "desc",
       "Primer salmo": "tatotaton",
-      "Segundo salmo": "epica"
+      "Segundo salmo": "clasica"
     }
   }
 }
