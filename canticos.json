@@ -96,7 +96,11 @@
     "mis ojos, mis pobres ojos": "desc",
     "salmo 5, 2-10. 12-13: oración de la mañana de un justo perseguido": "tatotaton",
     "1 cro 29, 10-13: solo a dios honor y gloria": "clasica",
-    "salmo 28: manifestación de dios en la tempestad": "epica"
+    "salmo 28: manifestación de dios en la tempestad": "epica",
+    "dichosas sois vosotras que guardasteis": "desc",
+    "salmo 23: entrada solemne de dios en su templo": "clasica",
+    "tobías 13, 1-10a: dios castiga y salva": "epica",
+    "salmo 32: himno al poder y a la providencia de dios": "tatotaton"
   },
   "dias": {
     "2026-10-26": {
@@ -232,7 +236,9 @@
     },
     "2026-11-17": {
       "Primer salmo": "clasica",
-      "Segundo salmo": "epica"
+      "Segundo salmo": "epica",
+      "Himno": "desc",
+      "Tercer salmo": "tatotaton"
     }
   }
 }
