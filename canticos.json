@@ -1,39 +1,6 @@
 {
-  "fecha": "2026-11-18",
-  "selecciones": {
-    "Invocación inicial": {
-      "key": "invocacion",
-      "capoOffset": -1
-    },
-    "Himno": {
-      "key": "greg",
-      "capoOffset": -1
-    },
-    "Primer salmo": {
-      "key": "clasica",
-      "capoOffset": -1
-    },
-    "Segundo salmo": {
-      "key": "epica",
-      "capoOffset": -1
-    },
-    "Tercer salmo": {
-      "key": "ascendente",
-      "capoOffset": -1
-    },
-    "Responsorio breve": {
-      "key": "responsorio",
-      "capoOffset": -1
-    },
-    "Cántico de Zacarías": {
-      "key": "zacarias",
-      "capoOffset": -1
-    },
-    "Padrenuestro": {
-      "key": "padrenuestro",
-      "capoOffset": -1
-    }
-  },
+  "fecha": "2026-11-19",
+  "selecciones": {},
   "misaCanciones": {},
   "porSalmo": {
     "hoy que sé que mi vida es un desierto,": "desc",
