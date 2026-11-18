@@ -104,7 +104,11 @@
     "buenos días, señor, a ti el primero": "greg",
     "salmo 35: depravación del malvado y bondad de dios": "clasica",
     "judit 16, 2-3. 15-19: dios, creador del mundo y protector de su pueblo": "epica",
-    "salmo 46: el señor es rey de todas las cosas": "ascendente"
+    "salmo 46: el señor es rey de todas las cosas": "ascendente",
+    "comienzan los relojes": "greg",
+    "salmo 56: oración matutina de un afligido": "tatotaton",
+    "jeremías 31, 10-14: felicidad del pueblo redimido": "epica",
+    "salmo 47: himno a la gloria de dios en jerusalén": "ascendente"
   },
   "dias": {
     "2026-10-26": {
@@ -251,7 +255,10 @@
       "Segundo salmo": "epica"
     },
     "2026-11-19": {
-      "Primer salmo": "tatotaton"
+      "Primer salmo": "tatotaton",
+      "Himno": "greg",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "ascendente"
     }
   }
 }
