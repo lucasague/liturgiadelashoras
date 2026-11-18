@@ -1,20 +1,20 @@
 {
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "selecciones": {
+    "Primer salmo": {
+      "key": "tatotaton",
+      "capoOffset": 0
+    },
     "Himno": {
       "key": "greg",
       "capoOffset": 0
     },
-    "Tercer salmo": {
-      "key": "ascendente",
-      "capoOffset": 0
-    },
-    "Primer salmo": {
-      "key": "clasica",
-      "capoOffset": 0
-    },
     "Segundo salmo": {
       "key": "epica",
+      "capoOffset": 0
+    },
+    "Tercer salmo": {
+      "key": "ascendente",
       "capoOffset": 0
     }
   },
