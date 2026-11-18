@@ -1,36 +1,20 @@
 {
-  "fecha": "2026-11-19",
+  "fecha": "2026-11-18",
   "selecciones": {
-    "Invocación inicial": {
-      "key": "invocacion",
-      "capoOffset": 0
-    },
     "Himno": {
       "key": "greg",
-      "capoOffset": 0
-    },
-    "Primer salmo": {
-      "key": "tatotaton",
-      "capoOffset": 0
-    },
-    "Segundo salmo": {
-      "key": "epica",
       "capoOffset": 0
     },
     "Tercer salmo": {
       "key": "ascendente",
       "capoOffset": 0
     },
-    "Responsorio breve": {
-      "key": "responsorio",
+    "Primer salmo": {
+      "key": "clasica",
       "capoOffset": 0
     },
-    "Cántico de Zacarías": {
-      "key": "zacarias",
-      "capoOffset": 0
-    },
-    "Padrenuestro": {
-      "key": "padrenuestro",
+    "Segundo salmo": {
+      "key": "epica",
       "capoOffset": 0
     }
   },
