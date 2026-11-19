@@ -18,7 +18,7 @@
       "capoOffset": 0
     },
     "Tercer salmo": {
-      "key": "rota",
+      "key": "arabe",
       "capoOffset": 0
     },
     "Responsorio breve": {
@@ -261,7 +261,7 @@
       "Tercer salmo": "ascendente"
     },
     "2026-11-20": {
-      "Tercer salmo": "rota"
+      "Tercer salmo": "arabe"
     }
   }
 }
