@@ -108,7 +108,10 @@
     "comienzan los relojes": "greg",
     "salmo 56: oración matutina de un afligido": "tatotaton",
     "jeremías 31, 10-14: felicidad del pueblo redimido": "epica",
-    "salmo 47: himno a la gloria de dios en jerusalén": "ascendente"
+    "salmo 47: himno a la gloria de dios en jerusalén": "ascendente",
+    "así: te necesito": "greg",
+    "isaías 45, 15-26: que los pueblos todos se conviertan al señor": "epica",
+    "salmo 99: alegría de los que entran en el templo": "arabe"
   },
   "dias": {
     "2026-10-26": {
@@ -261,7 +264,10 @@
       "Tercer salmo": "ascendente"
     },
     "2026-11-20": {
-      "Tercer salmo": "arabe"
+      "Tercer salmo": "arabe",
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica"
     }
   }
 }
