@@ -14,11 +14,11 @@
       "capoOffset": 0
     },
     "Segundo salmo": {
-      "key": "epica",
+      "key": "arabe",
       "capoOffset": 0
     },
     "Tercer salmo": {
-      "key": "arabe",
+      "key": "ascendente",
       "capoOffset": 0
     },
     "Responsorio breve": {
@@ -267,7 +267,7 @@
       "Tercer salmo": "arabe",
       "Himno": "greg",
       "Primer salmo": "tatotaton",
-      "Segundo salmo": "epica"
+      "Segundo salmo": "arabe"
     }
   }
 }
