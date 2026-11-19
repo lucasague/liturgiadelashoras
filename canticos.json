@@ -10,11 +10,11 @@
       "capoOffset": 0
     },
     "Primer salmo": {
-      "key": "clasica",
+      "key": "arabe",
       "capoOffset": 0
     },
     "Segundo salmo": {
-      "key": "arabe",
+      "key": "tatitaton",
       "capoOffset": 0
     },
     "Tercer salmo": {
@@ -497,7 +497,7 @@
     "2026-11-20": {
       "Tercer salmo": "arabe",
       "Himno": "greg",
-      "Primer salmo": "clasica",
+      "Primer salmo": "arabe",
       "Segundo salmo": "arabe"
     }
   }
