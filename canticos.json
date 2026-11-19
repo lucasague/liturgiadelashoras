@@ -10,7 +10,7 @@
       "capoOffset": 0
     },
     "Primer salmo": {
-      "key": "ascendente",
+      "key": "tatotaton",
       "capoOffset": 0
     },
     "Segundo salmo": {
@@ -18,7 +18,7 @@
       "capoOffset": 0
     },
     "Tercer salmo": {
-      "key": "tatotaton",
+      "key": "ascendente",
       "capoOffset": 0
     },
     "Responsorio breve": {
@@ -497,7 +497,7 @@
     "2026-11-20": {
       "Tercer salmo": "arabe",
       "Himno": "greg",
-      "Primer salmo": "ascendente",
+      "Primer salmo": "tatotaton",
       "Segundo salmo": "arabe"
     }
   }
