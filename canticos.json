@@ -18,7 +18,7 @@
       "capoOffset": 0
     },
     "Tercer salmo": {
-      "key": "tatitaton",
+      "key": "arabe",
       "capoOffset": 0
     },
     "Responsorio breve": {
@@ -500,7 +500,8 @@
       "Segundo salmo": "arabe"
     },
     "2026-11-21": {
-      "Segundo salmo": "epica"
+      "Segundo salmo": "epica",
+      "Tercer salmo": "arabe"
     }
   }
 }
