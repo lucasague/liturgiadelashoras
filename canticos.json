@@ -18,7 +18,7 @@
       "capoOffset": 0
     },
     "Tercer salmo": {
-      "key": "rota",
+      "key": "tatitaton",
       "capoOffset": 0
     },
     "Responsorio breve": {
@@ -498,6 +498,9 @@
       "Himno": "greg",
       "Primer salmo": "tatotaton",
       "Segundo salmo": "arabe"
+    },
+    "2026-11-21": {
+      "Segundo salmo": "epica"
     }
   }
 }
