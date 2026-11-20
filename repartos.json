@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T11:07:04.780Z",
+  "actualizado": "2026-11-20T11:07:31.722Z",
   "repartos": {
     "4|bendito sea el senor dios de israel\nporque ha visitado y redimido a su pueblo\nsuscitandonos una fuerza de salvacion\nen la casa de david su siervo\nsegun lo habia predicho desde antiguo\npor boca de sus santos profetas": {
       "layout": {
@@ -98,6 +98,59 @@
         ]
       },
       "t": 1795172821609
+    },
+    "3|oh blanca azucena\nla sabiduria\nsu trono te hacia\ndorada patena\nde la gracia llena\nllena de hermosura\ntu luz virgen pura\nnina inmaculada\nrasgue en alborada\nnuestra noche oscura": {
+      "layout": {
+        "lines": [
+          "¡Oh blanca azucena!,",
+          "la Sabiduría",
+          "su trono te hacía,",
+          "dorada patena,",
+          "de la gracia llena,",
+          "llena de hermosura.",
+          "Tu luz, Virgen pura,",
+          "niña inmaculada,",
+          "rasgue en alborada",
+          "nuestra noche oscura."
+        ],
+        "passes": [
+          [
+            [
+              "1",
+              3
+            ],
+            [
+              "2",
+              1
+            ]
+          ],
+          [
+            [
+              "1",
+              2
+            ],
+            [
+              "2",
+              1
+            ],
+            [
+              "3",
+              1
+            ]
+          ],
+          [
+            [
+              "1",
+              1
+            ],
+            [
+              "3",
+              1
+            ]
+          ]
+        ]
+      },
+      "t": 1795172848545
     }
   }
 }
