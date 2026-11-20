@@ -111,7 +111,9 @@
     "salmo 47: himno a la gloria de dios en jerusalén": "ascendente",
     "así: te necesito": "greg",
     "isaías 45, 15-26: que los pueblos todos se conviertan al señor": "epica",
-    "salmo 99: alegría de los que entran en el templo": "arabe"
+    "salmo 99: alegría de los que entran en el templo": "arabe",
+    "la niña maría": "greg",
+    "exodo 15, 1-4. 8-13. 17-18: himno a dios, después de la victoria del mar rojo": "epica"
   },
   "historialPorSalmo": {
     "hoy que sé que mi vida es un desierto,": [
@@ -341,6 +343,12 @@
     ],
     "salmo 99: alegría de los que entran en el templo": [
       "arabe"
+    ],
+    "la niña maría": [
+      "greg"
+    ],
+    "exodo 15, 1-4. 8-13. 17-18: himno a dios, después de la victoria del mar rojo": [
+      "epica"
     ]
   },
   "dias": {
@@ -501,7 +509,9 @@
     },
     "2026-11-21": {
       "Segundo salmo": "epica",
-      "Tercer salmo": "rota"
+      "Tercer salmo": "rota",
+      "Himno": "greg",
+      "Primer salmo": "tatotaton"
     }
   }
 }
