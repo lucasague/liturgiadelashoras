@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T11:07:42.962Z",
+  "actualizado": "2026-11-20T11:07:51.512Z",
   "repartos": {
     "4|bendito sea el senor dios de israel\nporque ha visitado y redimido a su pueblo\nsuscitandonos una fuerza de salvacion\nen la casa de david su siervo\nsegun lo habia predicho desde antiguo\npor boca de sus santos profetas": {
       "layout": {
@@ -131,6 +131,59 @@
         ]
       },
       "t": 1795172859764
+    },
+    "3|tu presentacion\nprincesa maria\nde paz y alegria\nllena el corazon\nde dios posesion\ny casa habitada\neres la morada\nde la trinidad\na su majestad\nla gloria sea dada amen": {
+      "layout": {
+        "lines": [
+          "Tu presentación,",
+          "princesa María,",
+          "de paz y alegría",
+          "llena el corazón.",
+          "De Dios posesión",
+          "y casa habitada,",
+          "eres la morada",
+          "de la Trinidad.",
+          "A su Majestad",
+          "la gloria sea dada. Amén."
+        ],
+        "passes": [
+          [
+            [
+              "1",
+              3
+            ],
+            [
+              "2",
+              1
+            ]
+          ],
+          [
+            [
+              "1",
+              2
+            ],
+            [
+              "2",
+              1
+            ],
+            [
+              "3",
+              1
+            ]
+          ],
+          [
+            [
+              "1",
+              1
+            ],
+            [
+              "3",
+              1
+            ]
+          ]
+        ]
+      },
+      "t": 1795172868329
     }
   }
 }
