@@ -18,7 +18,7 @@
       "capoOffset": 0
     },
     "Tercer salmo": {
-      "key": "arabe",
+      "key": "ascendente",
       "capoOffset": 0
     },
     "Responsorio breve": {
@@ -501,7 +501,7 @@
     },
     "2026-11-21": {
       "Segundo salmo": "epica",
-      "Tercer salmo": "arabe"
+      "Tercer salmo": "ascendente"
     }
   }
 }
