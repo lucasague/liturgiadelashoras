@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T11:07:58.453Z",
+  "actualizado": "2026-11-20T11:07:59.764Z",
   "repartos": {
     "4|bendito sea el senor dios de israel\nporque ha visitado y redimido a su pueblo\nsuscitandonos una fuerza de salvacion\nen la casa de david su siervo\nsegun lo habia predicho desde antiguo\npor boca de sus santos profetas": {
       "layout": {
@@ -158,16 +158,12 @@
             ],
             [
               "3",
-              3
-            ],
-            [
-              "3",
-              1
+              4
             ]
           ]
         ]
       },
-      "t": 1795172875320
+      "t": 1795172877249
     }
   }
 }
