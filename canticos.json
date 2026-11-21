@@ -6,7 +6,7 @@
       "capoOffset": 0
     },
     "Himno": {
-      "key": "greg",
+      "key": "desc",
       "capoOffset": 0
     },
     "Primer salmo": {
@@ -512,6 +512,9 @@
       "Tercer salmo": "rota",
       "Himno": "greg",
       "Primer salmo": "tatotaton"
+    },
+    "2026-11-22": {
+      "Himno": "desc"
     }
   }
 }
