@@ -113,7 +113,8 @@
     "isaías 45, 15-26: que los pueblos todos se conviertan al señor": "epica",
     "salmo 99: alegría de los que entran en el templo": "arabe",
     "la niña maría": "greg",
-    "exodo 15, 1-4. 8-13. 17-18: himno a dios, después de la victoria del mar rojo": "epica"
+    "exodo 15, 1-4. 8-13. 17-18: himno a dios, después de la victoria del mar rojo": "epica",
+    "oh jesucristo, redentor de todos,": "desc"
   },
   "historialPorSalmo": {
     "hoy que sé que mi vida es un desierto,": [
@@ -349,6 +350,9 @@
     ],
     "exodo 15, 1-4. 8-13. 17-18: himno a dios, después de la victoria del mar rojo": [
       "epica"
+    ],
+    "oh jesucristo, redentor de todos,": [
+      "desc"
     ]
   },
   "dias": {
@@ -514,7 +518,10 @@
       "Primer salmo": "tatotaton"
     },
     "2026-11-22": {
-      "Himno": "desc"
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "rota",
+      "Tercer salmo": "ascendente"
     }
   }
 }
