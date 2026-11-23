@@ -531,7 +531,10 @@
       "Tercer salmo": "narnia"
     },
     "2026-11-24": {
-      "Himno": "desc"
+      "Himno": "desc",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "narnia"
     }
   }
 }
