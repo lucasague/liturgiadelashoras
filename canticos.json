@@ -6,7 +6,7 @@
       "capoOffset": 0
     },
     "Himno": {
-      "key": "greg",
+      "key": "desc",
       "capoOffset": 0
     },
     "Primer salmo": {
@@ -529,6 +529,9 @@
       "Primer salmo": "tatotaton",
       "Segundo salmo": "epica",
       "Tercer salmo": "narnia"
+    },
+    "2026-11-24": {
+      "Himno": "desc"
     }
   }
 }
