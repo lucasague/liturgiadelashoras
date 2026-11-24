@@ -10,28 +10,28 @@
       "capoOffset": 0
     },
     "Primer salmo": {
-      "key": "epica",
-      "capoOffset": -1
+      "key": "clasica",
+      "capoOffset": 1
     },
     "Segundo salmo": {
       "key": "tatotaton",
-      "capoOffset": -1
+      "capoOffset": 1
     },
     "Tercer salmo": {
-      "key": "narnia",
-      "capoOffset": -1
+      "key": "ascendente",
+      "capoOffset": 1
     },
     "Responsorio breve": {
       "key": "responsorio",
-      "capoOffset": -1
+      "capoOffset": 1
     },
     "Cántico de Zacarías": {
       "key": "zacarias",
-      "capoOffset": -1
+      "capoOffset": 1
     },
     "Padrenuestro": {
       "key": "padrenuestro",
-      "capoOffset": -1
+      "capoOffset": 1
     }
   },
   "misaCanciones": {},
@@ -538,7 +538,7 @@
     },
     "2026-11-25": {
       "Himno": "greg",
-      "Primer salmo": "epica"
+      "Primer salmo": "clasica"
     }
   }
 }
