@@ -14,7 +14,7 @@
       "capoOffset": 0
     },
     "Segundo salmo": {
-      "key": "tatitaton",
+      "key": "arabe",
       "capoOffset": 0
     },
     "Tercer salmo": {
@@ -539,7 +539,7 @@
     "2026-11-25": {
       "Himno": "greg",
       "Primer salmo": "clasica",
-      "Segundo salmo": "tatitaton"
+      "Segundo salmo": "arabe"
     }
   }
 }
