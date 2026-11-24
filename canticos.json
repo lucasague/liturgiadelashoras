@@ -18,7 +18,7 @@
       "capoOffset": 0
     },
     "Tercer salmo": {
-      "key": "epica",
+      "key": "tatitaton",
       "capoOffset": 0
     },
     "Responsorio breve": {
@@ -540,7 +540,7 @@
       "Himno": "greg",
       "Primer salmo": "clasica",
       "Segundo salmo": "arabe",
-      "Tercer salmo": "epica"
+      "Tercer salmo": "tatitaton"
     }
   }
 }
