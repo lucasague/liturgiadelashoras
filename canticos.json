@@ -114,7 +114,11 @@
     "salmo 99: alegría de los que entran en el templo": "arabe",
     "la niña maría": "greg",
     "exodo 15, 1-4. 8-13. 17-18: himno a dios, después de la victoria del mar rojo": "epica",
-    "oh jesucristo, redentor de todos,": "desc"
+    "oh jesucristo, redentor de todos,": "desc",
+    "estate, señor, conmigo": "greg",
+    "salmo 76: recuerdo del pasado glorioso de israel": "clasica",
+    "1 samuel 2, 1-10: alegría de los humildes en dios": "arabe",
+    "salmo 96: gloria del señor, rey de justicia": "narnia"
   },
   "historialPorSalmo": {
     "hoy que sé que mi vida es un desierto,": [
@@ -354,6 +358,18 @@
     ],
     "oh jesucristo, redentor de todos,": [
       "desc"
+    ],
+    "estate, señor, conmigo": [
+      "greg"
+    ],
+    "salmo 76: recuerdo del pasado glorioso de israel": [
+      "clasica"
+    ],
+    "1 samuel 2, 1-10: alegría de los humildes en dios": [
+      "arabe"
+    ],
+    "salmo 96: gloria del señor, rey de justicia": [
+      "narnia"
     ]
   },
   "dias": {
