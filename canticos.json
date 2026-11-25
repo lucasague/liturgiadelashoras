@@ -48,10 +48,10 @@
     "salmo 62, 2-9: el alma sedienta de dios": "tatotaton",
     "daniel 3, 57-88. 56: toda la creación alabe al señor": "rota",
     "salmo 149: alegría de los santos": "ascendente",
-    "alfarero del hombre, mano trabajadora": "desc",
+    "alfarero del hombre, mano trabajadora": "greg",
     "salmo 79: ven, señor, a visitar tu viña": "clasica",
-    "isaías 12, 1-6: acción de gracias del pueblo salvado": "rota",
-    "salmo 80: solemne renovación de la alianza": "ascendente",
+    "isaías 12, 1-6: acción de gracias del pueblo salvado": "epica",
+    "salmo 80: solemne renovación de la alianza": "rota",
     "por el dolor creyente que brota del pecado;": "greg",
     "salmo 50: misericordia, dios mío": "tatotaton",
     "habacuc 3, 2-4. 13a. 15-19: juicio de dios": "epica",
@@ -159,16 +159,19 @@
       "ascendente"
     ],
     "alfarero del hombre, mano trabajadora": [
-      "desc"
+      "desc",
+      "greg"
     ],
     "salmo 79: ven, señor, a visitar tu viña": [
       "clasica"
     ],
     "isaías 12, 1-6: acción de gracias del pueblo salvado": [
-      "rota"
+      "rota",
+      "epica"
     ],
     "salmo 80: solemne renovación de la alianza": [
-      "ascendente"
+      "ascendente",
+      "rota"
     ],
     "por el dolor creyente que brota del pecado;": [
       "greg"
@@ -561,7 +564,8 @@
     "2026-11-26": {
       "Himno": "greg",
       "Segundo salmo": "epica",
-      "Tercer salmo": "rota"
+      "Tercer salmo": "rota",
+      "Primer salmo": "clasica"
     }
   }
 }
