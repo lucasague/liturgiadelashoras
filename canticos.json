@@ -14,7 +14,7 @@
       "capoOffset": 0
     },
     "Segundo salmo": {
-      "key": "rota",
+      "key": "tatotaton",
       "capoOffset": 0
     },
     "Tercer salmo": {
@@ -559,7 +559,8 @@
       "Tercer salmo": "narnia"
     },
     "2026-11-26": {
-      "Himno": "greg"
+      "Himno": "greg",
+      "Segundo salmo": "tatotaton"
     }
   }
 }
