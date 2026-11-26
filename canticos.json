@@ -566,6 +566,12 @@
       "Segundo salmo": "epica",
       "Tercer salmo": "rota",
       "Primer salmo": "clasica"
+    },
+    "2026-11-27": {
+      "Himno": "greg",
+      "Primer salmo": "tatotaton",
+      "Segundo salmo": "epica",
+      "Tercer salmo": "narnia"
     }
   }
 }
